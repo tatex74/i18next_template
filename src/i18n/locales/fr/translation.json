@@ -1,0 +1,27 @@
+{
+  "welcome": {
+    "title": "Bienvenue à la Démo i18n",
+    "subtitle": "Ceci est un exemple simple d'internationalisation avec Next.js"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "features": {
+    "title": "Fonctionnalités",
+    "item1": "Changement de langue facile",
+    "item2": "Détection de langue basée sur l'URL",
+    "item3": "Détection automatique de la langue du navigateur",
+    "item4": "Sélection de langue persistante"
+  },
+  "actions": {
+    "getStarted": "Commencer",
+    "learnMore": "En savoir plus",
+    "deploy": "Déployer maintenant"
+  },
+  "footer": {
+    "copyright": "© 2024 Tous droits réservés",
+    "madeWith": "Fait avec ❤️ en utilisant Next.js et i18next"
+  }
+}
